@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/React_tic_tac_toe.git/React_tic_tac_toe/static/css/main.92e56bc0.chunk.css",
-    "main.js": "/React_tic_tac_toe.git/React_tic_tac_toe/static/js/main.63decd99.chunk.js",
-    "main.js.map": "/React_tic_tac_toe.git/React_tic_tac_toe/static/js/main.63decd99.chunk.js.map",
-    "runtime~main.js": "/React_tic_tac_toe.git/React_tic_tac_toe/static/js/runtime~main.cd39c3b8.js",
-    "runtime~main.js.map": "/React_tic_tac_toe.git/React_tic_tac_toe/static/js/runtime~main.cd39c3b8.js.map",
-    "static/css/2.712fe445.chunk.css": "/React_tic_tac_toe.git/React_tic_tac_toe/static/css/2.712fe445.chunk.css",
-    "static/js/2.c69d9cb2.chunk.js": "/React_tic_tac_toe.git/React_tic_tac_toe/static/js/2.c69d9cb2.chunk.js",
-    "static/js/2.c69d9cb2.chunk.js.map": "/React_tic_tac_toe.git/React_tic_tac_toe/static/js/2.c69d9cb2.chunk.js.map",
-    "index.html": "/React_tic_tac_toe.git/React_tic_tac_toe/index.html",
-    "precache-manifest.7aabb0f08444945a55ab0eec4a56ab63.js": "/React_tic_tac_toe.git/React_tic_tac_toe/precache-manifest.7aabb0f08444945a55ab0eec4a56ab63.js",
-    "service-worker.js": "/React_tic_tac_toe.git/React_tic_tac_toe/service-worker.js",
-    "static/css/2.712fe445.chunk.css.map": "/React_tic_tac_toe.git/React_tic_tac_toe/static/css/2.712fe445.chunk.css.map",
-    "static/css/main.92e56bc0.chunk.css.map": "/React_tic_tac_toe.git/React_tic_tac_toe/static/css/main.92e56bc0.chunk.css.map"
+    "main.css": "/React_tic_tac_toe/static/css/main.92e56bc0.chunk.css",
+    "main.js": "/React_tic_tac_toe/static/js/main.da8b3827.chunk.js",
+    "main.js.map": "/React_tic_tac_toe/static/js/main.da8b3827.chunk.js.map",
+    "runtime~main.js": "/React_tic_tac_toe/static/js/runtime~main.dad4faae.js",
+    "runtime~main.js.map": "/React_tic_tac_toe/static/js/runtime~main.dad4faae.js.map",
+    "static/css/2.712fe445.chunk.css": "/React_tic_tac_toe/static/css/2.712fe445.chunk.css",
+    "static/js/2.c1497cf0.chunk.js": "/React_tic_tac_toe/static/js/2.c1497cf0.chunk.js",
+    "static/js/2.c1497cf0.chunk.js.map": "/React_tic_tac_toe/static/js/2.c1497cf0.chunk.js.map",
+    "index.html": "/React_tic_tac_toe/index.html",
+    "precache-manifest.9a1cdae0a00e48756e287d28073ad96f.js": "/React_tic_tac_toe/precache-manifest.9a1cdae0a00e48756e287d28073ad96f.js",
+    "service-worker.js": "/React_tic_tac_toe/service-worker.js",
+    "static/css/2.712fe445.chunk.css.map": "/React_tic_tac_toe/static/css/2.712fe445.chunk.css.map",
+    "static/css/main.92e56bc0.chunk.css.map": "/React_tic_tac_toe/static/css/main.92e56bc0.chunk.css.map"
   }
 }
