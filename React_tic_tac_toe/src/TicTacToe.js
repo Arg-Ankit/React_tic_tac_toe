@@ -254,7 +254,7 @@ const TicTacToe = ({ squares = arr }) => {
        <input type='text' id='player_2' name='player_2' placeholder={rivals.player_2==='AI'?'AI':'player O...'} disabled={rivals.player_2==='AI'} onChange={myChangeHandlerPlayer2}>
        </input>     
        </label>  
-       <button type='button' onClick={startGame}>Continue</button>
+       <button type='button' id='continue' onClick={startGame}>Continue</button>
     </form> 
   ) : (
 
