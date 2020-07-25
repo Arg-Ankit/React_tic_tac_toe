@@ -29,25 +29,25 @@ h2{
 }
 
 #AI:active{
-  background-color: rgb(34, 83, 219);
+  background-color:#06a2d4;/* rgb(34, 83, 219);*/
   color:white; 
   border: solid grey!important;
 }
 
 #Friend:active{
-  background-color: rgb(34, 83, 219);
+  background-color:#06a2d4; /* rgb(34, 83, 219);*/
   color:white;
   border: solid grey;
 }
 
 #X:active{
-  background-color: rgb(34, 83, 219);
+  background-color:#06a2d4; /*rgb(34, 83, 219);*/
   color:white; 
   border: solid grey;
 }
 
 #O:active{
-  background-color: rgb(34, 83, 219);
+  background-color:#06a2d4; /* rgb(34, 83, 219);*/
   color:white; 
   border: solid grey;
 }
@@ -145,7 +145,12 @@ li{
 .rival_player{
   margin-left:170px;;
 }
-
+#continue{
+  width:100%
+}
+#continue:hover{
+background-color:#06a2d4;
+}
  /* smartphones, Android phones, landscape iPhone */
  @media (min-width:360px)  { 
 
