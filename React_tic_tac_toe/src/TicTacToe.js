@@ -236,6 +236,7 @@ const TicTacToe = ({ squares = arr }) => {
     </Screen>
   ) : gameState === GAME_STATES.modeSelected ? (
   <Inner>
+    <h2>Tic Tac Toe</h2>
 
   <ChooseText><strong>Pick your side</strong></ChooseText>
   <ButtonRow>
@@ -245,6 +246,8 @@ const TicTacToe = ({ squares = arr }) => {
   </ButtonRow>
 </Inner> 
   ) : gameState === GAME_STATES.started ? (
+    <React.Fragment>
+    <h2>Tic Tac Toe</h2>
     <form className='showFormPlayerInput'>
       <label>Player 1:
       <input type='text' id='player_1' name='player_1' placeholder='Player X...' onChange={myChangeHandlerPlayer1}>
@@ -256,6 +259,7 @@ const TicTacToe = ({ squares = arr }) => {
        </label>  
        <button type='button' id='continue' onClick={startGame}>Continue</button>
     </form> 
+    </React.Fragment>
   ) : (
 
     <React.Fragment>
