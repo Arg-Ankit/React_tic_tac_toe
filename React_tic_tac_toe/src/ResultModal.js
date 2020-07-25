@@ -22,7 +22,7 @@ export const ResultModal = ({ isOpen, close, startNewGame, winner }) => {
         <ModalContent>{winner}</ModalContent>
 
         <ModalFooter>
-          <Button onClick={close}>Close</Button>
+          <Button onClick={close}>Play Again</Button>
           <Button onClick={startNewGame}>Start over</Button>
         </ModalFooter>
       </ModalWrapper>
